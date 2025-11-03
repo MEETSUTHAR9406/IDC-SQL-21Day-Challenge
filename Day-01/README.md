@@ -1,16 +1,16 @@
 ## Topics Covered
 
-Introduction to SQL (Structured Query Language) <br>
-Basic SELECT statement <br>
-Column selection <br>
-Viewing data structure <br>
+* Introduction to SQL (Structured Query Language) <br>
+* Basic SELECT statement <br>
+* Column selection <br>
+* Viewing data structure <br>
 
 ## Key Concepts
 
-Tables store data in rows (records) and columns (fields) <br>
-SELECT specifies which columns to retrieve <br>
-FROM specifies the table to query <br>
-SQL statements end with a semicolon (;) <br>
+* Tables store data in rows (records) and columns (fields) <br>
+* SELECT specifies which columns to retrieve <br>
+* FROM specifies the table to query <br>
+* SQL statements end with a semicolon (;) <br>
 
 ## Basic Syntax Examples
 
@@ -27,7 +27,6 @@ SELECT name AS patient_name, age AS patient_age FROM patients;
 SELECT * FROM patients LIMIT 5;
 
 ## Daily Challenge
-
 Question: List all unique hospital services available in the hospital
 ### Ans: 
 
