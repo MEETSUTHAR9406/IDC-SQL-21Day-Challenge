@@ -1,22 +1,18 @@
-# 🩺 Day 02 – Filtering Data with WHERE Clause
+## Topics Covered
 
-## 📘 Topics Covered
-- Filtering data using the **WHERE** clause  
-- Using **comparison operators** (=, >, <, >=, <=, !=)  
-- Combining conditions with **AND**, **OR**, and **NOT**  
-- Pattern matching with **LIKE** and **IN**  
-- Using **BETWEEN** for range filtering  
+* Filtering data using the **WHERE** clause  
+* Using **comparison operators** (=, >, <, >=, <=, !=)  
+* Combining conditions with **AND**, **OR**, and **NOT**  
+* Pattern matching with **LIKE** and **IN**  
+* Using **BETWEEN** for range filtering  
 
----
+## Key Concepts
 
-## 🧠 Key Concepts
-- **WHERE** filters records based on conditions  
-- **Comparison operators** compare values in columns  
-- **Logical operators** combine multiple conditions  
-- **Strings use single quotes (‘ ’)**  
-- Use **IS NULL** or **IS NOT NULL** to check for missing values  
-
----
+* **WHERE** filters records based on conditions  
+* **Comparison operators** compare values in columns  
+* **Logical operators** combine multiple conditions  
+* **Strings use single quotes (‘ ’)**  
+* Use **IS NULL** or **IS NOT NULL** to check for missing values  
 
 ## 💻 Basic Syntax Examples
 
@@ -44,4 +40,4 @@ WHERE service IN ('Emergency', 'Cardiology', 'Surgery');
 -- Using BETWEEN for range
 SELECT * 
 FROM patients
-WHERE age BETWEEN 18 AND 65;
+WHERE age BETWEEN 18 AND 6
