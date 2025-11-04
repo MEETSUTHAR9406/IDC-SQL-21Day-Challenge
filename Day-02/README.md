@@ -40,4 +40,12 @@ WHERE service IN ('Emergency', 'Cardiology', 'Surgery');
 -- Using BETWEEN for range
 SELECT * 
 FROM patients
-WHERE age BETWEEN 18 AND 6
+WHERE age BETWEEN 18 AND 65;
+
+## Daily Challenge 
+Find all patients admitted to the 'Surgery' service with a satisfaction score below 70, showing their patient_id, name, age, and satisfaction.
+## Ans:
+SELECT patient_id, name, age, satisfaction
+FROM patients
+WHERE service = 'Surgery'
+  AND satisfaction < 70
