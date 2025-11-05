@@ -19,3 +19,10 @@ SELECT * FROM patients ORDER BY age DESC, name ASC;
 
 -- Sort by satisfaction for top results
 SELECT name, age FROM patients ORDER BY satisfaction DESC LIMIT 10;
+
+```
+## Daily Challenge
+Question: Retrieve the top 5 weeks with the highest patient refusals across all services, showing week, service, patients_refused, and patients_request, sorted by patients_refused (DESC).
+## Ans:
+USE hospital; <br>
+SELECT week, service, patients_refused, patients_request <br> FROM services_weekly <br> ORDER BY patients_refused DESC;
