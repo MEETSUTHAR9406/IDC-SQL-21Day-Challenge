@@ -1,35 +1,42 @@
-## Topics Covered
+# Day 1 (03/11): Introduction to SQL & SELECT Statement
 
-* Introduction to SQL (Structured Query Language) <br>
-* Basic SELECT statement <br>
-* Column selection <br>
-* Viewing data structure <br>
+## Topics Covered
+- Basic SELECT  
+- Column selection  
+- Viewing data structure  
 
 ## Key Concepts
+SQL (Structured Query Language) is the standard language used for managing and retrieving data from relational databases.  
+The `SELECT` statement is your primary tool for fetching data from one or more tables.
 
-* Tables store data in rows (records) and columns (fields) <br>
-* SELECT specifies which columns to retrieve <br>
-* FROM specifies the table to query <br>
-* SQL statements end with a semicolon (;) <br>
+### Basic Syntax
+```sql
+SELECT column1, column2, column3
+FROM table_name;
+```
 
-## Basic Syntax Examples
-
--- Select all columns <br>
+-- Select all columns
+```sql
 SELECT * FROM patients;
-
--- Select specific columns <br>
+```
+-- Select specific columns
+```sql
 SELECT patient_id, name, age FROM patients;
+```
 
--- Using column aliases for readability <br>
+-- Using column aliases for readability
+```sql
 SELECT name AS patient_name, age AS patient_age FROM patients;
+```
 
--- Test with limited rows <br>
+-- Test with limited rows
+```sql
 SELECT * FROM patients LIMIT 5;
+```
 
-## Daily Challenge
-Question: List all unique hospital services available in the hospital
-### Ans: 
-
-SELECT service <br>
-FROM services_weekly <br> 
-GROUP BY service; <br>
+### Daily Challenge
+List all unique hospital services available in the hospital.
+### Ans:
+```sql
+SELECT service FROM services_weekly GROUP BY service;
+```
