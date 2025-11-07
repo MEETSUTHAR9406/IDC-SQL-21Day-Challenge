@@ -14,7 +14,7 @@
 * **Strings use single quotes (‘ ’)**  
 * Use **IS NULL** or **IS NOT NULL** to check for missing values  
 
-## 💻 Basic Syntax Examples
+## Basic Syntax Examples
 
 ```sql
 -- Select patients older than 60
