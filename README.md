@@ -20,5 +20,6 @@ Track progress publicly for self-motivation and accountability <br>
 
 ## Days 5-7: Aggregation & Grouping (COUNT, SUM, AVG, GROUP BY, HAVING)
 ### [Day 5 (07/11): Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-05)
+### [Day 6 (09/11): GROUP BY Clause](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-06)
 
 *Follow along as I continue to build SQL mastery, one query at a time!*
