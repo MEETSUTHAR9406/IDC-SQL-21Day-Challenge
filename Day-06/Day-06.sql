@@ -44,7 +44,7 @@ SELECT
     service,
     SUM(patients_admitted) AS total_admitted,
     SUM(patients_refused) AS total_refused,
-    (SUM(patients_admitted) / (SUM(patients_admitted) + SUM(patients_refused)) * 100) AS admission_rate
+    (SUM(patients_admitted) / (SUM(patients_request)) * 100) AS admission_rate
 FROM services_weekly
 GROUP BY service
 ORDER BY admission_rate DESC;
