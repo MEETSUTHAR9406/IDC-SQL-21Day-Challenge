@@ -1,3 +1,7 @@
+# By mistake added of Day-10, will add of day-09 soon.
+Here is of day-10:
+[Day-10](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-10)
+
 # Day 10 (13/11): CASE Statements
 
 ## Topics Covered
