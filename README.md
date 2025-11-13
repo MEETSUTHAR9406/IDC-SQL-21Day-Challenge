@@ -23,4 +23,11 @@ Track progress publicly for self-motivation and accountability <br>
 ### [Day 6 (09/11): GROUP BY Clause](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-06)
 ### [Day 7 (10/11): HAVING Clause](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-07)
 
+## Days 8-9: Data Manipulation (String & Date Functions)
+### [Day 8 (11/11): String Functions](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/blob/main/Day-08)
+### [Day 9 (12/11): Date Functions](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-09)
+
+## Days 10-12: Conditional Logic (CASE, DISTINCT, NULL Handling)
+### [Day 10 (13/11): CASE Statements](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-10)
+
 *Follow along as I continue to build SQL mastery, one query at a time!*
