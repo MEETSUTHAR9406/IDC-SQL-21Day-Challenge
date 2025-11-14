@@ -29,5 +29,6 @@ Track progress publicly for self-motivation and accountability <br>
 
 ## Days 10-12: Conditional Logic (CASE, DISTINCT, NULL Handling)
 ### [Day 10 (13/11): CASE Statements](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-10)
+### [Day 11 (14/11): DISTINCT and Handling Duplicates](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/blob/main/Day-11/README.md)
 
 *Follow along as I continue to build SQL mastery, one query at a time!*
