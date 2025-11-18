@@ -32,5 +32,6 @@ Track progress publicly for self-motivation and accountability <br>
 ### [Day 11 (14/11): DISTINCT and Handling Duplicates](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/blob/main/Day-11)
 ### [Day 12 (15/11): NULL Values and IS NULL/IS NOT NULL](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-12)
 ### [Day 13 (17/11): INNER JOIN](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-13)
+### [Day 14 (18/11): LEFT JOIN and RIGHT JOIN](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-14)
 
 *Follow along as I continue to build SQL mastery, one query at a time!*
