@@ -64,8 +64,9 @@ LEFT JOIN patients p
 GROUP BY sw.service, sw.week;
 ```
 
--- Daily Challenge:
--- Question: Create a staff utilisation report showing all staff members (staff_id, staff_name, role, service) and the count of weeks they were present (from staff_schedule). Include staff members even if they have no schedule records. Order by weeks present descending.
+### Daily Challenge
+Create a staff utilisation report showing all staff members (staff_id, staff_name, role, service) and the count of weeks they were present (from staff_schedule). Include staff members even if they have no schedule records. Order by weeks present descending.
+### Ans:
 ```sql
 SELECT 
     s.staff_id,
