@@ -37,4 +37,12 @@ Track progress publicly for self-motivation and accountability <br>
 ### [Day 14 (18/11): LEFT JOIN and RIGHT JOIN](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-14)
 ### [Day 15 (19/11): Multiple Joins](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-15)
 
+## Mini Project🍕(20/11) 
+### [Mini Project](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Mini-Project)
+
+## Days 16-18: Advanced Queries (Subqueries, UNION)
+### [Day 16 (21/11): Subqueries (WHERE clause)](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-16)
+### [Day 17 (22/11): Subqueries (SELECT and FROM clause)](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-17)
+### [Day 18 (24/11): UNION and UNION ALL](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-18)
+
 *Follow along as I continue to build SQL mastery, one query at a time!*
