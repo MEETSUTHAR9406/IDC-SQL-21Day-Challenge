@@ -45,4 +45,11 @@ Track progress publicly for self-motivation and accountability <br>
 ### [Day 17 (22/11): Subqueries (SELECT and FROM clause)](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-17)
 ### [Day 18 (24/11): UNION and UNION ALL](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-18)
 
+## Days 19-20: Analytical Functions (Window Functions)
+### [Day 19 (25/11): Window Functions - ROW_NUMBER, RANK, DENSE_RANK](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-19)
+### [Day 20 (26/11) : Window Functions - Aggregate Window Functions](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-20)
+
+## Day 21: Query Organisation (CTEs)
+### [Day 21 (27/11): Common Table Expressions (CTEs)](https://github.com/MEETSUTHAR9406/IDC-SQL-21Day-Challenge/tree/main/Day-21)
+
 *Follow along as I continue to build SQL mastery, one query at a time!*
